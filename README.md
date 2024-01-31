@@ -1,17 +1,8 @@
 # microdepmusic
 
-link https://barbelith.quetzal-barb.ts.net:8443/microdep/
-
-[[[https://barbelith.quetzal-barb.ts.net:8443/microdep/](https://barbelith.quetzal-barb.ts.net:8443/microdep/MicroDep%20-%20Ambient.mp3)]]
-
-<audio controls>
-  <source src="https://barbelith.quetzal-barb.ts.net:8443/microdep/MicroDep%20-%20Ambient.mp3" type="audio/mpeg">
-</audio>
-
+#Ambient
+[Spotify](https://open.spotify.com/playlist/6GMTi8qhp376yMh9VIj5eA?si=27679897c94646a1)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6GMTi8qhp376yMh9VIj5eA?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <audio src="https://barbelith.quetzal-barb.ts.net:8443/microdep/MicroDep%20-%20Ambient.mp3" controls> </audio>
 
-<audio src="https://barbelith.quetzal-barb.ts.net:8443/microdep/MicroDep%20-%20Ambient.mp3" preload controls> </audio>
-
-<object data="https://barbelith.quetzal-barb.ts.net:8443/microdep/MicroDep%20-%20Ambient.mp3"></object>
-
-<embed src="https://barbelith.quetzal-barb.ts.net:8443/microdep/MicroDep%20-%20Ambient.mp3">
+#Electrochill
