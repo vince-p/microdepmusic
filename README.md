@@ -1,4 +1,4 @@
-![MicroDep logo](/microdepmusic/docs/assets/2line_black.jpg)
+![MicroDep logo](/microdepmusic/assets/2line_black.jpg)
 
 ## #1 Ambient
 <audio src="https://barbelith.quetzal-barb.ts.net:10000/microdep/MicroDep%20-%20Ambient.mp3" controls> </audio>  
