@@ -12,4 +12,6 @@ link https://barbelith.quetzal-barb.ts.net:8443/microdep/
 
 <audio src="https://barbelith.quetzal-barb.ts.net:8443/microdep/MicroDep%20-%20Ambient.mp3" preload controls> </audio>
 
-<object data=""https://barbelith.quetzal-barb.ts.net:8443/microdep/MicroDep%20-%20Ambient.mp3"></object>
+<object data="https://barbelith.quetzal-barb.ts.net:8443/microdep/MicroDep%20-%20Ambient.mp3"></object>
+
+<embed src="https://barbelith.quetzal-barb.ts.net:8443/microdep/MicroDep%20-%20Ambient.mp3">
